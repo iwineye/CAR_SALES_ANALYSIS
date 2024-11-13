@@ -283,8 +283,8 @@ The Car Sales Performance Dashboard is divided into several sections that presen
 •	Purpose: Estimates the number of units that will be sold in the next quarter.
 
 •	Value : 2.138 K
-### 16. Projected Revenue from Income Group Segmentation
-•	Formula: Predicted Revenue based on sales performance in each income segment.
+### 16. Projected Revenue for next quarter
+•	Formula: Calculated using active customers and ARPC(Avg revenue per customer)
 
 •	Purpose: Forecast revenue from segmented customer groups.
 
@@ -307,4 +307,17 @@ The Car Sales Performance Dashboard is divided into several sections that presen
 
 ## Complete sales forecast Data 
 
-[title](link)
+[Regional Forecast](https://github.com/iwineye/CAR_SALES_ANALYSIS/blob/main/Forecast_data/Forecasted%20Next%20Quarter%20Sales%20by%20Region.csv)
+
+[Company Wise](https://github.com/iwineye/CAR_SALES_ANALYSIS/blob/main/Forecast_data/YoY%20Forecasted%20Growth%20Rate%20%25%20%20Trend%20by%20Company%20.csv)
+
+[Car Variant](https://github.com/iwineye/CAR_SALES_ANALYSIS/blob/main/Forecast_data/YoY%20Forecasted%20Growth%20Rate%20%25%20by%20Body%20Style%20.csv)
+
+[Car Variant Sales Regional wise](https://github.com/iwineye/CAR_SALES_ANALYSIS/blob/main/Forecast_data/YoY%20Forecasted%20Growth%20Rate%20%25%20by%20Body%20Style%20and%20Region%20Wise.csv)
+
+[Gender wise Car Variant Sales Forecast](https://github.com/iwineye/CAR_SALES_ANALYSIS/blob/main/Forecast_data/YoY%20Forecasted%20Growth%20Rate%20%25%20by%20Body%20Style%20by%20Gender%20.csv)
+
+[Potentail Customer Demography](https://github.com/iwineye/CAR_SALES_ANALYSIS/blob/main/Forecast_data/YoY%20Forecasted%20Growth%20Rate%20%25%20by%20Potential%20Customer%20Demographics.csv)
+
+[Regional Forecast Model Wise](https://github.com/iwineye/CAR_SALES_ANALYSIS/blob/main/Forecast_data/YoY%20Forecasted%20Growth%20Rate%20%25%20by%20Region.csv)
+
