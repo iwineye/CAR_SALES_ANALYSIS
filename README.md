@@ -49,7 +49,7 @@ The Car Sales Performance Dashboard is divided into several sections that presen
 ## 3. Sales Growth Analysis
 
 ### Purpose: Analyse trends in sales growth and identify areas for improvement.
-![Sales Growth Analysis](https://github.com/user-attachments/assets/66d8e36c-151b-46a3-8ed3-43056092d0cb)4
+![Sales Growth Analysis](https://github.com/user-attachments/assets/66d8e36c-151b-46a3-8ed3-43056092d0cb)
 
 **Key Metrics:**
 
@@ -290,10 +290,21 @@ The Car Sales Performance Dashboard is divided into several sections that presen
 
 •	Value: 
 
-### Income Group Wise Sales Prediction
+# Conclusion
+
+## Sales Forecast
+
+| Recent Quarter Sales	 |Next Quarter Sales|	Q-Q Growth %	 | YoY Growth %|
+|-----------------------|------------------|---------------|-------------|
+|  11.70	                 |8.39            |	-28	        |-13.04     |
+
+## Income Group Wise Sales Prediction
 |Income Group|	   Forecasted next Quarter Revenue|	Q-Q Growth	 |       YoY Growth|
 |---|--|--|--|
 |High	|32.88	|-23	|-18.24|
 |Medium|	9.3	|-27|	-11.36|
 |Low	|41.66|	-32	|-8.85|
 
+## Complete sales forecast Data 
+
+[title](link)
