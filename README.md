@@ -12,44 +12,64 @@ The objective of this project is to:
 
 # Key Components of the Dashboard
 The Car Sales Performance Dashboard is divided into several sections that present key insights into sales performance. These sections include:
+## Executive summary 
+![Sales Over View](https://github.com/user-attachments/assets/39df8e8a-19d6-43ad-9c19-2b25d27ef046)
 
 ## 1. Sales Overview
 ###	Purpose: Provide a snapshot of overall sales performance.
-•	Key Metrics:
--	Sales Volume (Units Sold): 11000 Units (20% increase)
--	Total Sales Value: 371 Million
--	Average Purchase Value: 28000
-  
-•	Insights:
--	Austin has the highest share in sales with 17% and Middle Town lowest with 13%.
--	Sales tend to increase consistently throughout the year with 60% sales in second half of the year.
--	Top 5 Companies have 30% market share lead by Ford Company.
-## 2. Annual Performance Overview
-###	Purpose: Show how the sales team has performed over the year, compared to targets and previous years.
-•	Key Metrics:
+
+![Sales Overview](https://github.com/user-attachments/assets/926f1d97-5e7a-4bfe-a97e-f64db4b981ca)
+
+**Key Metrics:**
+
 -	Year-over-Year (YoY) Growth Rate:  23.59 %
 -	Sales Growth: 71 Million
 -	Total Revenue (current year vs. previous year) : 371Million (2023) Vs 300 Million (2022)
+
   
-•	Insights:
+**Insights:**
+-	Austin has the highest share in sales with 17% and Middle Town lowest with 13%.
+-	Sales tend to increase consistently throughout the year with 60% sales in second half of the year.
+-	Top 5 Companies have 30% market share lead by Ford Company.
+  
+## 2. Annual Performance Overview
+###	Purpose: Show how the sales team has performed over the year, compared to previous years.
+
+![Annual Performance](https://github.com/user-attachments/assets/47173647-8635-4168-83e5-805bb411568e)
+
+**Key Metrics:**
+-	Average Purchase Value: 28000
+  
+**Insights:**
 - Average purchase value and Average Revenue per user reduced.
-  - Most sales and Average Monthly Revenue is highest among Low Income Group customers.
+- Most sales and Average Monthly Revenue is highest among Low Income group customers.
+- Aurora has the highest average purchase value and Austin has highest ARPU Per Year.
+- SUV's are sold more lower income groups (median annual income is lower).
+- Highest contribution to Last quarter sales contribution is done by lower income groups.
 ## 3. Sales Growth Analysis
 
 ### Purpose: Analyse trends in sales growth and identify areas for improvement.
+![Sales Growth Analysis](https://github.com/user-attachments/assets/66d8e36c-151b-46a3-8ed3-43056092d0cb)4
 
-•	Key Metrics:
+**Key Metrics:**
+
+-	Sales Volume (Units Sold): 11000 Units (20% increase)
 -	Quarter-over-Quarter (QoQ) Sales Growth: -28 %
 -	Projected Unit Sales (Next Quarter) : 2140
 -	Project Growth Rate: -13.4 %
-•	Insights:
+  
+**Insights:**
+
 -	Chevrolet sales grew the most in absolute terms 6.6 Million compared to previous year.
 -	SUV Sales market grew the most compared to previous year by 41.17 %.
 
 ## 4. Sales Forecast
 ###	Purpose: Forecast future sales based on current data and historical trends.
 
-•	Key Metrics:
+![Sales Forecast 1](https://github.com/user-attachments/assets/8357b0e8-96f4-43ff-86f1-4e661b689dd5)
+
+![Sales Forecast 2](https://github.com/user-attachments/assets/4dc6fbf0-fdd7-4000-95e1-8dd4ba02b21f)
+**Key Metrics:**
 -	Forecasted Sales Revenue (Next Quarter) : 83.94 Million
 -	Forecasted Units Sold (Next Quarter) : 2138
 -	Sales Forecast
@@ -58,7 +78,8 @@ The Car Sales Performance Dashboard is divided into several sections that presen
 |-----------------------|------------------|---------------|-------------|
 |  11.70	                 |8.39            |	-28	        |-13.04     |
 
-•	Insights:
+**Insights:**
+
 -	Sales Forecast suggests a 28% decline for the next Quarter.
 -	Lexus is expected to make more sales next quarter among most sold cars 11% (Q-Q).
 -	Women are expected to purchase more cars compared to previous year and vice versa for men. 
@@ -66,7 +87,10 @@ The Car Sales Performance Dashboard is divided into several sections that presen
 
 ### Purpose: Provide insights into the performance of different car models and products.
 
-•	Key Metrics:
+![Product Analysis](https://github.com/user-attachments/assets/a68d14d9-c113-42ee-b14d-4234685c7427)
+
+**Key Metrics:**
+
 -	Total Sales by Product Category
 
 |BODY STYLE|	UNITS SOLD	|SALES	|MARKET SHARE (%)|
@@ -75,19 +99,23 @@ The Car Sales Performance Dashboard is divided into several sections that presen
 |Hatch Back	|3096|	83 Million|	23.35|
 |Sedan	|2475|	74 Million	|18.66|
 |Passenger	|2188	|63 Million|	16.5|
-|Hardtop|	1774	|51 Million|	|13.38|
+|Hardtop|	1774	|51 Million|	13.38|
 
 - Average Sale Price per Product
 -	Product Contribution to Total Revenue
-•	Insights:
+  
+**Insights:**
 -	Pie chart showing the breakdown of sales by product category.
 -	Bar chart displaying sales by individual product models.
 -	KPI cards with total sales by product category and average sale price.
+
 ## 6. Customer Insights
 
 ### Purpose: Analyse customer behaviour, segmentation, and engagement.
 
-•	Key Metrics:
+![Customer Analysis](https://github.com/user-attachments/assets/4aed95fe-d6fd-4a13-8eb3-2865a253b4e7)
+
+**Key Metrics:**
 -	Active Customers (Current Period):1646
 -	Customer Lifetime Value (CLV): 595.46K
 -	Average Purchase Frequency : 5.03	
@@ -100,12 +128,19 @@ The Car Sales Performance Dashboard is divided into several sections that presen
 |Low	|333 Million|	49.63%|
 
 -	Recency, Frequency, and Monetary (RFM) Score : 24000.
-•	Insights:
+  
+**Insights:**
 -	Average purchase frequency of the medium income group is lower among all income groups.
 -	Income from active customers is 117 million. An increase by 20 million compared to previous year.
+-	
 ## 7. Demographic Insights
-•	Purpose: Segment customers based on demographic data (e.g., income, gender, region) and analyse potential sales opportunities.
-•	Insights:
+
+### Purpose: Segment customers based on demographic data (e.g., income, gender, region) and analyse potential sales opportunities.
+
+![Demographic Insights](https://github.com/user-attachments/assets/67604c44-0956-416e-b351-1cab4edeb50c)
+
+**Insights:**
+
 - Demographic Group Sales Contribution (Income, gender, Region)
 
 
@@ -126,7 +161,13 @@ The Car Sales Performance Dashboard is divided into several sections that presen
 |Pasco	|48.36	|13.03|
 |Middletown|	47.56|	12.81|
 
-o	Predicted Revenue Based on Demographics
+-Predicted Revenue Based on Demographics
+
+|Income Group|	   Forecasted next Quarter Revenue|	Q-Q Growth	 |       YoY Growth|
+|---|--|--|--|
+|High	|32.88	|-23	|-18.24|
+|Medium|	9.3	|-27|	-11.36|
+|Low	|41.66|	-32	|-8.85|
 
 -Region Wise Sales Prediction
 
@@ -148,10 +189,6 @@ o	Predicted Revenue Based on Demographics
 |Female	|18.05	|-36	|4.46|
 
 
-
-•	Insights:
--
--
 
 ## KPIs to Track and Visualize
 
